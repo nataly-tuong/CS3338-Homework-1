@@ -1,0 +1,96 @@
+commit d87cfed6f6687387da75158fafab17c36d0c0ea5
+Author: Arnceb <arceballos99@gmail.com>
+Date:   Wed Sep 16 21:18:00 2026 -0700
+
+    Edit to nataly's page!
+    
+    Changes!
+
+commit e0a94a003dfd7662217cc76fad2fc542dc64b434
+Merge: 8feb3a9 a9373ca
+Author: nataly-tuong <152276169+nataly-tuong@users.noreply.github.com>
+Date:   Fri Sep 11 12:58:54 2026 -0700
+
+    Merge pull request #2 from nataly-tuong/feature-about-me
+    
+    Added my information to the footer
+
+commit a9373ca89f7761ccdfe15d92ff57594956d69d21
+Author: nataly-tuong <152276169+nataly-tuong@users.noreply.github.com>
+Date:   Fri Sep 11 12:58:15 2026 -0700
+
+    Added my information to the footer
+
+commit 5dba0de055350fe782f51a8561c1af436a0eb2f4
+Merge: 8feb3a9 3d0933c
+Author: nataly-tuong <152276169+nataly-tuong@users.noreply.github.com>
+Date:   Fri Sep 11 12:57:43 2026 -0700
+
+    On main: !!GitHub_Desktop<main>
+
+commit 3d0933cb5f4226ff7232b57572b3c4d5224dc34d
+Author: nataly-tuong <152276169+nataly-tuong@users.noreply.github.com>
+Date:   Fri Sep 11 12:57:43 2026 -0700
+
+    index on main: 8feb3a9 Merge pull request #1 from nataly-tuong/feature-about-me
+
+commit 8feb3a932e994af16bef26a997a6fe07cdf6ed7b
+Merge: f37cdce 9af733c
+Author: nataly-tuong <152276169+nataly-tuong@users.noreply.github.com>
+Date:   Fri Sep 11 12:54:04 2026 -0700
+
+    Merge pull request #1 from nataly-tuong/feature-about-me
+    
+    Adding my information to feature about me
+
+commit 9af733cad0358b0e43351644f85e6d0af3d3c972
+Merge: ac1ba37 f37cdce
+Author: nataly-tuong <152276169+nataly-tuong@users.noreply.github.com>
+Date:   Fri Sep 11 12:52:11 2026 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit ac1ba371ed8d67fb77a4d367fa8fbd0ad1fdfbd8
+Author: nataly-tuong <152276169+nataly-tuong@users.noreply.github.com>
+Date:   Fri Sep 11 12:45:11 2026 -0700
+
+    I added my info to the index.html
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
